@@ -19,5 +19,6 @@ The purpose of our Parking Lot Payment System is to ensure the efficient and eas
 - Once the payment is made, the gate opens.
 - Customers can stay in the parking lot maximum for 15 hours (from the start of the working hours till the end of the working hours: from 9 am to 00 am).
 
+***
 
 P.S. This system was created in collaboration with one of my groupmates. I was responsible for the creation of the database and logical organization of its entities, attributes, and constraints. I have also maintained all the technical part of our project related to creating tables, inserting values for them, writing the altering/deleting, query codes, as well as providing explanatory comments for them.
