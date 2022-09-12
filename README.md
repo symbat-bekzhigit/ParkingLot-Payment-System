@@ -1,6 +1,6 @@
 # ParkingLot-Payment-System
 
-The purpose of our Parking Lot Payment System is to ensure the efficient and easy data manipulation of the parking lot system for a particular organization. Our system’s main idea is about storing certain essential information about the customer of the shopping center’s parking lot and making sure that the amount of the parking cost is consistent with the amount of the parking rate for that particular customer.
+The purpose of this Parking Lot Payment System is to ensure the efficient and easy data manipulation of the parking lot system for a particular organization. The system’s main goal is to store an essential information about the customer of the shopping center’s parking lot, making sure that the amount of the parking cost is consistent with the amount of the parking rate for that particular customer.
 
 
 **Business rules:**
@@ -21,4 +21,4 @@ The purpose of our Parking Lot Payment System is to ensure the efficient and eas
 
 ***
 
-P.S. This system was created in collaboration with one of my groupmates. I was responsible for the creation of the database and logical organization of its entities, attributes, and constraints. I have also maintained all the technical part of our project related to creating tables, inserting values for them, writing the altering/deleting, query codes, as well as providing explanatory comments for them.
+P.S. This system was created in collaboration with one of my friends. I was responsible for the creation of the database and logical organization of its entities, attributes, and constraints. I have also maintained all the technical part of our project related to creating tables, inserting values for them, writing the altering/deleting, query codes, as well as providing explanatory comments for them.
